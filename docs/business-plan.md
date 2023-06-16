@@ -12,3 +12,12 @@
 ## Competition
 
 Search for competing clubs via [Super Pages > Hunting and Fishing Clubs](https://www.superpages.com/categories/hunting-and-fishing-clubs)
+
+## Products
+
+- [Hunts](#hunt): Schedule hunting
+- [Membership](#membership): Become a member
+- [Online Store](#shop): Purchase products
+- [Events](#events): Attend events
+- [Newsletter](#newsletter): Read news
+

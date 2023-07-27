@@ -1,0 +1,7 @@
+mkdocs
+mkdocs-awesome-pages-plugin
+mkdocs-macros-plugin
+mkdocs-material
+mkdocstrings
+mkdocs-roamlinks-plugin
+fontawesome_markdown
